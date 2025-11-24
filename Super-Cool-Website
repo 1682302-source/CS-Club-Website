@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study Guide</title>
+    <style>
+      body {
+      background-color:lightblue;
+      font-family: Arial;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Math Study Guide</h1>
+    <h2>&emsp;Units:</h2>
+    <h3>&emsp;&emsp;1: Geometry</h3>
+    <h3>&emsp;&emsp;2: Algebra</h3>
+    <h3>&emsp;&emsp;3: Calculus</h3>
+  </body>
+</html>
